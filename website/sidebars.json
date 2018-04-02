@@ -24,7 +24,8 @@
       "navigating-without-navigation-prop",
       "deep-linking",
       "screen-tracking",
-      "redux-integration"
+      "redux-integration",
+      "navigation-key"
     ],
     "Build your own Navigator": [
       "custom-navigator-overview",
